@@ -1,5 +1,16 @@
-.Dictionary form {
-  text-align: center;
-  margin: 30px;
-  margin-left: -30px;
+.Dictionary section {
+  background-color: rgb(197, 212, 212);
+  padding: 25px;
+  border-radius: 10px;
+  box-shadow: 0 -8px 8px rgb(113, 156, 161);
+  margin: 25px 0;
+}
+
+.Dictionary input {
+  width: 100%;
+  padding: 8px 4px;
+  border: 1px solid rgb(22, 156, 134);
+  border-radius: 10px;
+  color: rgb(25, 78, 78);
+  font-family: monospace;
 }

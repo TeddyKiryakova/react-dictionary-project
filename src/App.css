@@ -1,8 +1,12 @@
+.App {
+  background-color: rgb(206, 226, 226);
+}
+
 .App h1 {
   text-align: center;
-  color: cadetblue;
-  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
-  font-size: 45px;
+  color: rgb(42, 120, 122);
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 50px;
   font-weight: bold;
 }
 
